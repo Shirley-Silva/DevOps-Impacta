@@ -1,7 +1,7 @@
 : Perfil dos voluntários do experimento \label{tabperfil}
 
-|Vol.|Formação acadêmica           |Experiência c/ Latex| Expeiência c/ Markdown|
+|Vol.|Formação acadêmica           |Instituição         | Ano           |
 |:-:|:----------------------------:|:------------------:|:--------------------:|
-|1  |Ciência da Computação         |ShareLatex          | Readme/Github|
-|2  |Engenharia da Computação      |Viu prof. utilizando|-|
-|3  |Engenheiro elétrico (mestrando)|Utiliza para tudo  |-|
+|1  |Sistemas de Informação        |Impacta             | Atual         |
+|2  |Técnico Redes de Computadores |SENAI               |-|
+|3  |Segurança do Trabalho         |ETEC                |-|
